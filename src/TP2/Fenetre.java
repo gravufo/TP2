@@ -23,6 +23,8 @@ public class Fenetre extends JFrame
 
         damier = new Damier();
 
+
+        
         this.setLayout(new GridLayout(1,0));
         this.setPreferredSize(new Dimension(600,600));
         this.setDefaultCloseOperation(EXIT_ON_CLOSE);
