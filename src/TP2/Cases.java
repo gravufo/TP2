@@ -24,6 +24,7 @@ public class Cases extends JPanel
         super(new GridLayout(1,0));
         this.couleur = couleur;
     }
+
     @Override
     public void paintComponent(Graphics g)
     {

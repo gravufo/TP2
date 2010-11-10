@@ -29,6 +29,7 @@ public class Fenetre extends JFrame
         this.setPreferredSize(new Dimension(600,600));
         this.setDefaultCloseOperation(EXIT_ON_CLOSE);
         this.add(damier);
+        
         this.pack();
         this.setVisible(true);
     }
