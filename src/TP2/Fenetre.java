@@ -17,6 +17,7 @@ import javax.swing.JFrame;
 public class Fenetre extends JFrame
 {
     private Damier damier;
+
     public Fenetre()
     {
         super("Super damier de Christian!");
